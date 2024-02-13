@@ -4,7 +4,7 @@ Poradniki do Pythona dedykowane początkującym użytkownikom Pythona
 Po prostu kliknij plik z nazwą lekcji, która Cię interesuje.
 
 ## Znalazłeś błąd lub proponujesz korektę? 
-Nie bój się skontaktować. Przez Githuba lub maila: arkadiuszmazurek13@gmail.com
+Nie bój się skontaktować. Możesz to zrobić przez GitHuba na przykład.
 
 ## Chcesz wykorzystać kod jako nauczyciel?
 ### Powiem tak: 
